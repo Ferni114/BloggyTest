@@ -11,5 +11,4 @@ Las caracteristicas con las que cuenta la aplicacion so las siguientes:
 5) Dagger Hilt
 6) Kotlin
 
-# API AWS Serverless
-Liga para la alimentacion de la API Rest situada en servidores Amazon
+
