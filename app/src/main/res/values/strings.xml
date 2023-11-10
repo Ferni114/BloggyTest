@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicacion Android Test</string>
+    <string name="title">Bloggy </string>
+    <string name="add">Agregar</string>
+    <string name="addblog">Agregar Nuevo</string>
+    <string name="bloggs">Bloggs</string>
+    <string name="author">Autor</string>
+    <string name="content">Contenido</string>
+</resources>
